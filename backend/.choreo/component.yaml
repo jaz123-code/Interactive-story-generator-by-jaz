@@ -4,7 +4,7 @@ endpoints:
       displayName: REST API
       service:
         basePath: /
-        port: 9000
+        port: 8000
       type: REST
       networkVisibilities:
         - Project
